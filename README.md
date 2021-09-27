@@ -1,4 +1,5 @@
-git staus
-git add .
-git comit -m "Some comment"
-git push
+git staus -  перевірити статус
+git add . - зберегти зміни
+git commit -m "Some comment" - закоментувати зміни
+git push - відгрузити дані
+git pull - скачати актуальні зміни
